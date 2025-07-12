@@ -73,3 +73,12 @@ GET http://localhost:7777/alterar-pessoa
 - **Dados de Exemplo**: Utiliza a classe [`BancoDadosExemplo`](bancodadosexemplo.js) com dados fictícios
 
 ## Imagens
+### Redis Insight
+<img width="1912" height="1032" alt="image" src="https://github.com/user-attachments/assets/cfcda376-01f2-41f0-88ab-547bb898b1ea" />
+
+### Requisição sem cache
+<img width="96" height="22" alt="image" src="https://github.com/user-attachments/assets/88200ab3-bdf6-43a1-83d2-cd6e5ab61d2d" />
+
+### Requisição com cache
+<img width="107" height="24" alt="image" src="https://github.com/user-attachments/assets/b0786dd3-d542-4d15-b5df-69e692033bec" />
+
